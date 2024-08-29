@@ -1,5 +1,5 @@
-# Mediciones Ambientales con GaLIoT Board
-## PACI - Electrónica y Medio Ambiente
+# Ejemplo Mediciones Ambientales con GaLIoT Board
+## RIIC 2024 - Guía base de IoT
 ![Background](img/galiot_board-2.png)
 ## Instalación de la Tarjeta GALIoT Board
 
